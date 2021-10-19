@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Webpack-Setup
+# Project
 
 ## Built With
 
@@ -9,14 +9,10 @@
 - JavaScipt
 - Webpack
 - ES6
+- External API
+- JSON
 
-## Author 1
-
-👤 **Stephanie Uchechi**
-
-- GitHub: [Uchechi](https://github.com/Ugboaja-Uchechi/)
-
-## Author 2
+## Author
 
 👤 **Bhagyashree Patra**
 
