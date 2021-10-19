@@ -12,6 +12,10 @@
 - External API
 - JSON
 
+## Live Demo
+
+[Live View!!](https://vagyasri.github.io/Leaderboard/dist/)
+
 ## Author
 
 👤 **Bhagyashree Patra**
@@ -36,8 +40,14 @@
 - Open the folder with your code editor
 - Now You can edit the code and check the changes in the browser using Live Server
 
-### Get Live View in Localhost:
+### Webpack Setup:
 
+- Initialize `npm`: Run `npm init -y`
+- Install `webpack` and  `webpack-cli` locally: Run `npm install webpack webpack-cli --save-dev`
+
+### Implement the changes and Get Live View in Localhost:
+
+- Run: `npm run build`
 - Run: `npm start`
 
 ### Check linter errors:
