@@ -50,6 +50,12 @@
 - Run: `npm run build`
 - Run: `npm start`
 
+### Install Jest using NPM:
+- Run: `npm install --save-dev jest`
+
+### For Running Jest:
+- Run: `npm run test or npm test`
+
 ### Check linter errors:
 
 - Install npm
