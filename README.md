@@ -12,6 +12,10 @@
 - External API
 - JSON
 
+## Screenshot
+
+![Drum](Drum.png) 
+
 ## Live Demo
 
 [Live View!!](https://vagyasri.github.io/Leaderboard/dist/)
